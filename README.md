@@ -1,25 +1,25 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This README would normally document whatever basic ideology on our topic.
 
 ### What is this repository for? ###
 
 * This project is done by our team Tech Buddies for the TSEC Hackathon 2018. Our topic is Digital Citizens.
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+### Basic Idea of the Application ###
 
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+So basically this topic was how the user can efficiently manage the disastrous situations by using our application.
+We have made an application which can provide the neccessary steps to the user at a critical time of disaster it includes the new feed based on the disaster, important contacts, map to locate the near by hospitals, fire stations, blood banks, police stations and many more.
+It also contains the FAQ's, short and efficient discriptions on various disasters.
+This can be seen in the ppt. 
 
 ### Contribution guidelines ###
 
 * We have carried out this task with backend and front end support. We have used the Django framework, Javascript, css, Bootstrap,etc.
 
-### Who do I talk to? ###
+### Contributers ###
 
-* Repo owner or admin
-* Other community or team contact
+* Dhyey Thumar
+* Heeket Mehta
+* Jashan Banga
+* Jay Gala
