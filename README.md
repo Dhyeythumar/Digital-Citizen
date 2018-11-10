@@ -5,12 +5,10 @@ This README would normally document whatever steps are necessary to get your app
 ### What is this repository for? ###
 
 * This project is done by our team Tech Buddies for the TSEC Hackathon 2018. Our topic is Digital Citizens.
-* version-1
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
-* 
 * Configuration
 * Dependencies
 * Database configuration
