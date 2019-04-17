@@ -2,6 +2,16 @@
 
 This README would normally document whatever basic ideology on our topic.
 
+### Installation
+
+- git clone https://github.com/Dhyeythumar/Digital-Citizen
+- cd tseccodestorm-techbuddies_digital-citizen/hack
+- python -m venv myvenv
+- myvenv\Scripts\activate
+- python -m pip install django
+- python manage.py runserver
+
+
 ### What is this repository for? ###
 
 * This project is done by our team Tech Buddies for the TSEC Hackathon 2018. Our topic is Digital Citizens.
